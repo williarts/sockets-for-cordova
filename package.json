@@ -1,0 +1,22 @@
+{
+  "name": "cz.blocshop.socketsforcordova",
+  "version": "2.0.0",
+  "description": "Serviço de Socket.",
+  "keywords": [
+    "background",
+    "cordova",
+    "socket"
+  ],
+  "platforms": [
+    "android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "Williarts",
+  "license": "Apache 2.0",
+  "homepage": "https://github.com/williarts/sockets-for-cordova"
+}
